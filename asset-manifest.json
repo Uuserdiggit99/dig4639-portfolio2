@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Uuserdiggit99/dig4639-portfolio2/static/js/main.2e0aaef1.chunk.js",
+    "main.js.map": "/Uuserdiggit99/dig4639-portfolio2/static/js/main.2e0aaef1.chunk.js.map",
+    "runtime-main.js": "/Uuserdiggit99/dig4639-portfolio2/static/js/runtime-main.cc0b2c98.js",
+    "runtime-main.js.map": "/Uuserdiggit99/dig4639-portfolio2/static/js/runtime-main.cc0b2c98.js.map",
+    "index.html": "/Uuserdiggit99/dig4639-portfolio2/index.html"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc0b2c98.js",
+    "static/js/main.2e0aaef1.chunk.js"
+  ]
+}
